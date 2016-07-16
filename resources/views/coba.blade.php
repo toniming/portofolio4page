@@ -1,0 +1,1 @@
+Hello, {{ $name }}. My age is {{ $age }}
